@@ -10,7 +10,7 @@ deployments:
   artifacturl: http://test.war
   EnvID: 1
 - FarmName: Demo Instances
-  Serverid: new
+  Serverid: 
   ScriptID: 9
   artifacturl: http://test.war
   EnvID: 1
