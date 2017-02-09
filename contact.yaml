@@ -14,3 +14,8 @@ deployments:
   ScriptID: 9
   artifacturl: http://test.war
   EnvID: 1
+- FarmName: Demo Instances
+  Serverid: test6
+  ScriptID: 9
+  artifacturl: http://test.war
+  EnvID: 1
